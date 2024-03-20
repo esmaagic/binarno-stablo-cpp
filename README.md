@@ -8,7 +8,7 @@ Implementirane funkcije:
 
   -Konstruktor kopije, pomjerajuci konstruktor kopije, destruktor
 
-  -funkciju jePodskup(stablo1, stablo2) koja provjerava da li je jedno stablo podskup drugog, radi u vremenu O(n+m) gdje su n i m brojevi elemenata ta dva stabla
+  -Staticku funkciju jePodskup(stablo1, stablo2) koja provjerava da li je jedno stablo podskup drugog, radi u vremenu O(n+m) gdje su n i m brojevi elemenata ta dva stabla
 
   -Indeksiranje tako da Stablo[k] vraca k-ti najmanji element, k[0] je najmanji element
 
